@@ -1,0 +1,15 @@
+export class anketa{
+   userName=''
+   doctorname=''
+    fio=''
+    date=''
+    pol=''
+    adres=''
+    country=''
+    region=''
+    city=''
+    street=''
+    house=''
+    polisnumber=''
+    oms=''
+    phone=''}
